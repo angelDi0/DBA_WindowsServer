@@ -12,7 +12,7 @@ namespace DBA_1
         public bool InsertarLibro(clsProducto producto)
         {
 
-            string strCadenaConexion = "server=localhost;userid=angel;password=1234;database=sistema;";
+            string strCadenaConexion = "server=localhost;userid=root;password=;database=sistema;";
             MySqlConnection conexion = new MySqlConnection(strCadenaConexion);
 
             try

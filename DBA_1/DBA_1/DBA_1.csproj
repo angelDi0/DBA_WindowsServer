@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="FORM_1.aspx" />
+    <Content Include="Librero.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -130,6 +131,13 @@
     </Compile>
     <Compile Include="FORM_1.aspx.designer.cs">
       <DependentUpon>FORM_1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Librero.aspx.cs">
+      <DependentUpon>Librero.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Librero.aspx.designer.cs">
+      <DependentUpon>Librero.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
