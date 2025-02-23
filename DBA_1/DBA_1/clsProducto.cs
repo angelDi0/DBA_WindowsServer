@@ -7,6 +7,7 @@ namespace DBA_1
 {
 	public class clsProducto
 	{
+
 		public string ISBN { get; set; }
 
 		public string titulo { get; set; }

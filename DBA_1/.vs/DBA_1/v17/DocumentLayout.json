@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\",
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|c:\\users\\francisco javier\\source\\repos\\dba_windowsserver\\dba_1\\dba_1\\librero.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\dba_1\\librero.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\librero.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\dba_1\\form_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\form_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\dba_1\\form_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\form_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\dba_1\\librero.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\librero.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\dba_1\\librero.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\librero.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\dba_1\\clsdaoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|c:\\users\\eduar\\onedrive\\escritorio\\semestre 6\\administracion de bd\\unidad 2\\unidad 2_2\\primer intento\\dba_1\\dba_1\\clsdaoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\clsdaoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\dba_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\dba_1\\librero.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\librero.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\dba_1\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\dba_1\\form_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\form_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\dba_1\\form_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\form_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\dba_1\\librero.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\librero.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\dba_1\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\dba_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A5429425-8A0E-446C-8EA8-62D5B492897B}|DBA_1\\DBA_1.csproj|solutionrelative:dba_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,40 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Librero.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Librero.aspx.cs",
-              "RelativeDocumentMoniker": "DBA_1\\Librero.aspx.cs",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Librero.aspx.cs",
-              "RelativeToolTip": "DBA_1\\Librero.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T23:46:22.676Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Librero.aspx",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Librero.aspx",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Librero.aspx",
               "RelativeDocumentMoniker": "DBA_1\\Librero.aspx",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Librero.aspx",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Librero.aspx",
               "RelativeToolTip": "DBA_1\\Librero.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-02-17T23:41:31.505Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Librero.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Librero.aspx.cs",
+              "RelativeDocumentMoniker": "DBA_1\\Librero.aspx.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Librero.aspx.cs",
+              "RelativeToolTip": "DBA_1\\Librero.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T23:46:22.676Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FORM_1.aspx",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\FORM_1.aspx",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\FORM_1.aspx",
               "RelativeDocumentMoniker": "DBA_1\\FORM_1.aspx",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\FORM_1.aspx",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\FORM_1.aspx",
               "RelativeToolTip": "DBA_1\\FORM_1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -83,48 +93,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FORM_1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\FORM_1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\FORM_1.aspx.cs",
               "RelativeDocumentMoniker": "DBA_1\\FORM_1.aspx.cs",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\FORM_1.aspx.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\FORM_1.aspx.cs",
               "RelativeToolTip": "DBA_1\\FORM_1.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwG0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T05:56:22.694Z",
+              "WhenOpened": "2025-02-16T05:56:22.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDAOProductos.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\clsDAOProductos.cs",
+              "RelativeDocumentMoniker": "DBA_1\\clsDAOProductos.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\clsDAOProductos.cs",
+              "RelativeToolTip": "DBA_1\\clsDAOProductos.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:05:34.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "clsDAOProductos.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\clsDAOProductos.cs",
-              "RelativeDocumentMoniker": "DBA_1\\clsDAOProductos.cs",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\clsDAOProductos.cs",
-              "RelativeToolTip": "DBA_1\\clsDAOProductos.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T05:05:34.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Librero.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Librero.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Librero.aspx.designer.cs",
               "RelativeDocumentMoniker": "DBA_1\\Librero.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Librero.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Librero.aspx.designer.cs",
               "RelativeToolTip": "DBA_1\\Librero.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T00:07:48.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Web.config",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Web.config",
               "RelativeDocumentMoniker": "DBA_1\\Web.config",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\Web.config",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\Web.config",
               "RelativeToolTip": "DBA_1\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -133,13 +143,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "clsProducto.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\clsProducto.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\clsProducto.cs",
               "RelativeDocumentMoniker": "DBA_1\\clsProducto.cs",
-              "ToolTip": "C:\\Users\\Francisco Javier\\source\\repos\\DBA_WindowsServer\\DBA_1\\DBA_1\\clsProducto.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\Semestre 6\\Administracion de BD\\Unidad 2\\Unidad 2_2\\Primer Intento\\DBA_1\\DBA_1\\clsProducto.cs",
               "RelativeToolTip": "DBA_1\\clsProducto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T05:05:17.629Z"
             }

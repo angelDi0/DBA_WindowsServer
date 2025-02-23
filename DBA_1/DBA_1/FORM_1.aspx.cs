@@ -116,7 +116,9 @@ namespace DBA_1
             clsDAOProductos objProducto = new clsDAOProductos();
             if (objProducto.InsertarLibro(pr))
             {
-                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Producto Guardado!'); window.location='Librero.aspx';", true);
+                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Producto Guardado!');", true);
+                // Después de guardar el libro, redirige a la página de la tabla con un parámetro de consulta.
+                Response.Redirect("Librero.aspx?nuevoLibro=true");
             }
             else
             {

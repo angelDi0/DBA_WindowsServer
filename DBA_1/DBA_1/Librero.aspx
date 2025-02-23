@@ -1,11 +1,10 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Librero.aspx.cs" Inherits="DBA_1.Librero" %>
 
-
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>Librero</title>
     <style>
         @keyframes cambioColor {
@@ -93,36 +92,68 @@
 <body>
     <form id="form1" runat="server">
         <div class="table-container">
-            <table>
-                <tr>
-                    <th>ID</th>
-                    <th>ISBN</th>
-                    <th>Título</th>
-                    <th>Edición</th>
-                    <th>Año de publiación</th>
-                    <th>Autores</th>
-                    <th>Pais de Publicación</th>
-                    <th>Sinopsis</th>
-                    <th>Carrera</th>
-                    <th>Materia</th>
-                </tr>
-                <tr>
-                    <td>Fila 1</td><td>Fila 1</td><td>Fila 1</td><td>Fila 1</td><td>Fila 1</td>
-                    <td>Fila 1</td><td>Fila 1</td><td>Fila 1</td><td>Fila 1</td><td>Fila 1</td>
-                </tr>
-                <tr>
-                    <td>Fila 2</td><td>Fila 2</td><td>Fila 2</td><td>Fila 2</td><td>Fila 2</td>
-                    <td>Fila 2</td><td>Fila 2</td><td>Fila 2</td><td>Fila 2</td><td>Fila 2</td>
-                </tr>
-                <tr>
-                    <td>Fila 3</td><td>Fila 3</td><td>Fila 3</td><td>Fila 3</td><td>Fila 3</td>
-                    <td>Fila 3</td><td>Fila 3</td><td>Fila 3</td><td>Fila 3</td><td>Fila 3</td>
-                </tr>
-            </table>
+            <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="false" CssClass="table" ShowHeader="true">
+                <HeaderStyle CssClass="encabezado" />
+                <Columns>
+                    <asp:TemplateField HeaderText="ISBN">
+                        <ItemTemplate>
+                            <%# Eval("ISBN") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="Título">
+                        <ItemTemplate>
+                            <%# Eval("titulo") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="Edición">
+                        <ItemTemplate>
+                            <%# Eval("numero_edicion") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="Año Publicación">
+                        <ItemTemplate>
+                            <%# Eval("year_publicacion", "{0:yyyy}") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="Autores">
+                        <ItemTemplate>
+                            <%# Eval("autores") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="País">
+                        <ItemTemplate>
+                            <%# Eval("pais_publicacion") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="Sinopsis">
+                        <ItemTemplate>
+                            <%# Eval("sinopsis") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="Carrera">
+                        <ItemTemplate>
+                            <%# Eval("carrera") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
+                    <asp:TemplateField HeaderText="Materia">
+                        <ItemTemplate>
+                            <%# Eval("materia") %>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+                </Columns>
+            </asp:GridView>
         </div>
         <div class="button-container">
-            <asp:Button ID="btnRedirigir" runat="server" Text="Agregar Libro" OnClick="btnRedirigir_Click" />
-
+             <asp:Button ID="btnCargarDatos" runat="server" Text="Cargar Productos" OnClick="btnCargarDatos_Click" CssClass="btn btn-primary" />
+            <asp:Button ID="btnRedirigir" runat="server" Text="Agregar Libro" OnClick="btnRedirigir_Click" CssClass="btn btn-secondary" />
         </div>
     </form>
 </body>
