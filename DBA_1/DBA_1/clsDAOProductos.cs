@@ -1,12 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data.SqlClient;
 using MySql.Data.MySqlClient; // Librería para MySQL
 
 namespace DBA_1
 {
     public class clsDAOProductos
     {
-        private string strCadenaConexion = "server=localhost;userid=root;password=root;database=sistema;";
+        /// <summary>
+        /// private string strCadenaConexion = "server=localhost;userid=root;password=root;database=sistema;";
+        /// </summary>
+        /// 
+        string strCadenaConexion = ConfigurationManager.ConnectionStrings["MiConexion"].ConnectionString;
+
 
         /// <summary>
         /// Inserta un nuevo libro en la base de datos.
@@ -15,7 +22,7 @@ namespace DBA_1
         /// <returns>True si la inserción fue exitosa, False si hubo un error.</returns>
         public bool InsertarLibro(clsProducto producto)
         {
-            using (MySqlConnection conexion = new MySqlConnection(strCadenaConexion))
+            using (SqlConnection conexion = new SqlConnection(strCadenaConexion))
             {
                 try
                 {
@@ -26,7 +33,7 @@ namespace DBA_1
                     VALUES 
                     (@ISBN, @titulo, @numero_edicion, @year_publicacion, @autores, @pais_publicacion, @sinopsis, @carrera, @materia)";
 
-                    using (MySqlCommand cmd = new MySqlCommand(strInsert, conexion))
+                    using (SqlCommand cmd = new SqlCommand(strInsert, conexion))
                     {
                         // Parámetros
                         cmd.Parameters.AddWithValue("@ISBN", producto.ISBN);
@@ -59,16 +66,16 @@ namespace DBA_1
         {
             List<clsProducto> listaProductos = new List<clsProducto>();
 
-            using (MySqlConnection conn = new MySqlConnection(strCadenaConexion))
+            using (SqlConnection conn = new SqlConnection(strCadenaConexion))
             {
                 try
                 {
                     conn.Open();
                     string query = "SELECT ISBN, titulo, numero_edicion, year_publicacion, autores, pais_publicacion, sinopsis, carrera, materia FROM libro;";
 
-                    using (MySqlCommand cmd = new MySqlCommand(query, conn))
+                    using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
-                        using (MySqlDataReader reader = cmd.ExecuteReader())
+                        using (SqlDataReader reader = cmd.ExecuteReader())
                         {
                             while (reader.Read())
                             {
